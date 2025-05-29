@@ -1,6 +1,7 @@
 # MiniTabnews
 
 Uma versão pessoal do TabNews.
+![Captura de tela 2025-05-29 185531](https://github.com/user-attachments/assets/3753f471-7805-403e-880f-dd069932ed32)
 
 ## Instalação
 
